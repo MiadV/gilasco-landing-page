@@ -1,6 +1,11 @@
 ### GilasCo Landing Page
 
+![Website](https://img.shields.io/website?down_color=red&down_message=orange&up_color=green&up_message=Live&url=https%3A%2F%2Fgilasco.com%2F)
+
 This project is based on [Argon Design System React](https://www.creative-tim.com/product/argon-design-system-react) and is bootstraped with [CRA](https://create-react-app.dev/).
+
+![GilasCo Landing Page](/preview-gilasco.com.png)
+[Live Website](https://gilasco.com/)
 
 ## Development
 
@@ -45,7 +50,7 @@ yarn run build
 
 ## Cloning / Forking
 
-Please review the [license]('./LICENSE') and remove all client information (logo, address, images, branding content, etc.).
+Please review the [license]('LICENSE') and remove all client information (logo, address, images, branding content, etc.).
 
 ## Credits
 
