@@ -5,6 +5,7 @@
   "description": "Gilasco Department Store Landing Page",
   "main": "index.js",
   "author": "Miad V",
+  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
