@@ -33,7 +33,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 1. If you’re using [Apache HTTP Server](https://httpd.apache.org/), you need to create a .htaccess file in the public folder that looks like this:
    **Note:** This is necessary since we are using client-side routing.
 
-```bash
+```
 Options -MultiViews
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
