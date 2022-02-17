@@ -1,0 +1,39 @@
+{
+  "name": "gilasco-landing-page",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "Gilasco Department Store Landing Page",
+  "main": "index.js",
+  "author": "Miad V",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "headroom.js": "0.9.4",
+    "moment": "2.24.0",
+    "node-sass": "^4.12.0",
+    "nouislider": "13.1.5",
+    "react": "16.8.6",
+    "react-datetime": "2.16.3",
+    "react-dom": "16.8.6",
+    "react-router": "5.0.0",
+    "react-router-dom": "5.0.0",
+    "react-scripts": "3.0.0",
+    "reactstrap": "8.0.0",
+    "serve": "^11.2.0",
+    "validator": "^12.0.0"
+  }
+}

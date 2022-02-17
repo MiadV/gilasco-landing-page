@@ -1,0 +1,21 @@
+{
+  "short_name": "Gilasco MY",
+  "name": "Gilasco - Department Store - Malaysia",
+  "icons": [
+    {
+      "src": "icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#e40b36",
+  "background_color": "#ffffff"
+}
