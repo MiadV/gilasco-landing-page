@@ -50,7 +50,7 @@ yarn run build
 
 ## Cloning / Forking
 
-Please review the [license]('LICENSE') and remove all client information (logo, address, images, branding content, etc.).
+Please review the [license](LICENSE) and remove all client information (logo, address, images, branding content, etc.).
 
 ## Credits
 
