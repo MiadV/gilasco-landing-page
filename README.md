@@ -8,6 +8,7 @@ This project is based on [Argon Design System React](https://www.creative-tim.co
 
 [**👉View Live**](https://gilasco.com)
 <br/>
+
 ![GilasCo Landing Page](/preview-gilasco.com.png)
 
 ## Development
