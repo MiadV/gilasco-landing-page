@@ -1,13 +1,14 @@
 ### GilasCo Landing Page
 
-![Website](https://img.shields.io/website?down_color=red&down_message=orange&up_color=green&up_message=Live&url=https%3A%2F%2Fgilasco.com%2F)
+[![Website](https://img.shields.io/website?down_color=red&down_message=orange&up_color=green&up_message=Live&url=https%3A%2F%2Fgilasco.com%2F)](https://gilasco.com)
 
 > this project uses an old version of React.
 
 This project is based on [Argon Design System React](https://www.creative-tim.com/product/argon-design-system-react) and is bootstraped with [CRA](https://create-react-app.dev/).
 
+[**👉View Live**](https://gilasco.com)
+<br/>
 ![GilasCo Landing Page](/preview-gilasco.com.png)
-[Live Website](https://gilasco.com/)
 
 ## Development
 
